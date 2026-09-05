@@ -1,0 +1,81 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --color-surface: #dfe5ec;
+  --color-fg: #3a4b5f;
+  --color-fg-strong: #131920;
+  --color-line: #c0cbd8;
+
+  --color-blue-slate-50: #eff2f5;
+  --color-blue-slate-100: #dfe5ec;
+  --color-blue-slate-200: #c0cbd8;
+  --color-blue-slate-300: #a0b1c5;
+  --color-blue-slate-400: #8197b1;
+  --color-blue-slate-500: #617c9e;
+  --color-blue-slate-600: #4e647e;
+  --color-blue-slate-700: #3a4b5f;
+  --color-blue-slate-800: #27323f;
+  --color-blue-slate-900: #131920;
+  --color-blue-slate-950: #0e1116;
+
+  --color-blue-green-50: #eaf6fa;
+  --color-blue-green-100: #d6ecf5;
+  --color-blue-green-200: #add9eb;
+  --color-blue-green-300: #84c7e1;
+  --color-blue-green-400: #5bb4d7;
+  --color-blue-green-500: #32a1cd;
+  --color-blue-green-600: #2881a4;
+  --color-blue-green-700: #1e617b;
+  --color-blue-green-800: #144052;
+  --color-blue-green-900: #0a2029;
+  --color-blue-green-950: #07171d;
+
+  --color-strong-cyan-50: #e8fbfc;
+  --color-strong-cyan-100: #d2f7f9;
+  --color-strong-cyan-200: #a5eef3;
+  --color-strong-cyan-300: #78e6ed;
+  --color-strong-cyan-400: #4adde8;
+  --color-strong-cyan-500: #1dd5e2;
+  --color-strong-cyan-600: #17aab5;
+  --color-strong-cyan-700: #128087;
+  --color-strong-cyan-800: #0c555a;
+  --color-strong-cyan-900: #062b2d;
+  --color-strong-cyan-950: #041e20;
+
+  --color-turquoise-50: #e8fdfa;
+  --color-turquoise-100: #d0fbf6;
+  --color-turquoise-200: #a2f6ec;
+  --color-turquoise-300: #73f2e3;
+  --color-turquoise-400: #44eeda;
+  --color-turquoise-500: #16e9d1;
+  --color-turquoise-600: #11bba7;
+  --color-turquoise-700: #0d8c7d;
+  --color-turquoise-800: #095d53;
+  --color-turquoise-900: #042f2a;
+  --color-turquoise-950: #03211d;
+
+  --color-spring-green-50: #e7fef1;
+  --color-spring-green-100: #cefde3;
+  --color-spring-green-200: #9dfbc7;
+  --color-spring-green-300: #6cf9ab;
+  --color-spring-green-400: #3bf790;
+  --color-spring-green-500: #0af574;
+  --color-spring-green-600: #08c45d;
+  --color-spring-green-700: #069345;
+  --color-spring-green-800: #04622e;
+  --color-spring-green-900: #023117;
+  --color-spring-green-950: #012210;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-surface text-fg font-sans antialiased;
+  font-size: 16px;
+  line-height: 145%;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
