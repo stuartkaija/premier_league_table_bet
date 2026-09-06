@@ -4,12 +4,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-  # A push made by fetch-standings.yml using the default GITHUB_TOKEN does
-  # NOT trigger the `push` event above (GitHub suppresses it to prevent
-  # workflow loops), so deploy separately whenever that workflow finishes.
-  workflow_run:
-    workflows: [Fetch standings]
-    types: [completed]
 
 permissions:
   contents: read
@@ -22,7 +16,6 @@ concurrency:
 
 jobs:
   build:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
