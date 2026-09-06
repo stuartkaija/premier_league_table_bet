@@ -6,13 +6,13 @@
   },
   {
     "position": 2,
-    "teamId": "HUL",
-    "teamName": "Hull City AFC"
+    "teamId": "ARS",
+    "teamName": "Arsenal FC"
   },
   {
     "position": 3,
-    "teamId": "ARS",
-    "teamName": "Arsenal FC"
+    "teamId": "HUL",
+    "teamName": "Hull City AFC"
   },
   {
     "position": 4,
@@ -36,28 +36,28 @@
   },
   {
     "position": 8,
-    "teamId": "LEE",
-    "teamName": "Leeds United FC"
-  },
-  {
-    "position": 9,
-    "teamId": "BHA",
-    "teamName": "Brighton & Hove Albion FC"
-  },
-  {
-    "position": 10,
     "teamId": "EVE",
     "teamName": "Everton FC"
   },
   {
+    "position": 9,
+    "teamId": "LEE",
+    "teamName": "Leeds United FC"
+  },
+  {
+    "position": 10,
+    "teamId": "BHA",
+    "teamName": "Brighton & Hove Albion FC"
+  },
+  {
     "position": 11,
-    "teamId": "SUN",
-    "teamName": "Sunderland AFC"
+    "teamId": "MUN",
+    "teamName": "Manchester United FC"
   },
   {
     "position": 12,
-    "teamId": "MUN",
-    "teamName": "Manchester United FC"
+    "teamId": "SUN",
+    "teamName": "Sunderland AFC"
   },
   {
     "position": 13,
