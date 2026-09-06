@@ -17,7 +17,7 @@ function TeamCell({ teamId, teamName, points }: TeamCellProps) {
             event.currentTarget.style.display = 'none'
           }}
         />
-        {teamName}
+        <span className="hidden sm:inline">{teamName}</span>
       </span>
       {points !== undefined && points > 0 && <sup className="text-fg">+{points}</sup>}
     </span>

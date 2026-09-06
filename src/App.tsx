@@ -13,9 +13,6 @@ const STANDINGS_URL =
 const teamNameById = new Map(TEAMS.map((team) => [team.id, team.name]))
 const players = BETS.map((bet) => ({ playerId: bet.playerId, playerName: bet.playerName }))
 
-const cellClass = 'border-b border-line px-3 py-2 text-left'
-const headerClass = `${cellClass} font-medium text-fg-strong`
-
 function App() {
   const [standings, setStandings] = useState<StandingsEntry[] | null>(null)
   const [error, setError] = useState<string | null>(null)
@@ -69,36 +66,24 @@ function App() {
 
   return (
     <div id="app" className="mx-auto min-h-svh max-w-350 px-5 py-8">
-      <header className="flex items-center justify-between gap-4">
+      <header className="mb-10 flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between">
         <h1 className="text-2xl font-medium text-fg-strong">THE PREMIER LEAGUE TABLE RACE 2026</h1>
-      </header>
-      <div className="flex flex-col items-start gap-10 lg:flex-row">
-        <section className="min-w-0 flex-4 overflow-x-auto">
-          <LeagueTable players={players} rows={leagueTableRows} />
-        </section>
 
-        <section className="min-w-0 flex-1">
-          <h2 className="mb-3 text-lg font-medium text-fg-strong">Ranking</h2>
-          <table className="w-full border-collapse">
-            <thead>
-              <tr>
-                <th className={headerClass}>#</th>
-                <th className={headerClass}>Player</th>
-                <th className={headerClass}>Points</th>
-              </tr>
-            </thead>
-            <tbody>
-              {rankings.map((result, index) => (
-                <tr key={result.playerId}>
-                  <td className={cellClass}>{index + 1}</td>
-                  <td className={cellClass}>{result.playerName}</td>
-                  <td className={cellClass}>{result.totalPoints}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+        <section className="flex flex-wrap items-baseline gap-x-6 gap-y-1">
+          {rankings.map((result, index) => (
+            <span key={result.playerId} className="whitespace-nowrap text-sm text-fg">
+              <span className="font-medium text-fg-strong">
+                {index + 1}. {result.playerName}
+              </span>{' '}
+              {result.totalPoints}
+            </span>
+          ))}
         </section>
-      </div>
+      </header>
+
+      <section className="overflow-x-auto">
+        <LeagueTable players={players} rows={leagueTableRows} />
+      </section>
     </div>
   )
 }
