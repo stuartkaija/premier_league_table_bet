@@ -1,8 +1,8 @@
 [
   {
     "position": 1,
-    "teamId": "HUL",
-    "teamName": "Hull City AFC"
+    "teamId": "ARS",
+    "teamName": "Arsenal FC"
   },
   {
     "position": 2,
@@ -11,38 +11,38 @@
   },
   {
     "position": 3,
-    "teamId": "ARS",
-    "teamName": "Arsenal FC"
+    "teamId": "HUL",
+    "teamName": "Hull City AFC"
   },
   {
     "position": 4,
-    "teamId": "BRE",
-    "teamName": "Brentford FC"
-  },
-  {
-    "position": 5,
-    "teamId": "LIV",
-    "teamName": "Liverpool FC"
-  },
-  {
-    "position": 6,
     "teamId": "CHE",
     "teamName": "Chelsea FC"
   },
   {
+    "position": 5,
+    "teamId": "BRE",
+    "teamName": "Brentford FC"
+  },
+  {
+    "position": 6,
+    "teamId": "LIV",
+    "teamName": "Liverpool FC"
+  },
+  {
     "position": 7,
+    "teamId": "EVE",
+    "teamName": "Everton FC"
+  },
+  {
+    "position": 8,
     "teamId": "IPS",
     "teamName": "Ipswich Town FC"
   },
   {
-    "position": 8,
+    "position": 9,
     "teamId": "NEW",
     "teamName": "Newcastle United FC"
-  },
-  {
-    "position": 9,
-    "teamId": "EVE",
-    "teamName": "Everton FC"
   },
   {
     "position": 10,
@@ -81,13 +81,13 @@
   },
   {
     "position": 17,
-    "teamId": "FUL",
-    "teamName": "Fulham FC"
+    "teamId": "TOT",
+    "teamName": "Tottenham Hotspur FC"
   },
   {
     "position": 18,
-    "teamId": "TOT",
-    "teamName": "Tottenham Hotspur FC"
+    "teamId": "FUL",
+    "teamName": "Fulham FC"
   },
   {
     "position": 19,
