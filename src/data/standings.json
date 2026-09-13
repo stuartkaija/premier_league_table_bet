@@ -16,53 +16,53 @@
   },
   {
     "position": 4,
-    "teamId": "CHE",
-    "teamName": "Chelsea FC"
-  },
-  {
-    "position": 5,
-    "teamId": "BRE",
-    "teamName": "Brentford FC"
-  },
-  {
-    "position": 6,
-    "teamId": "LIV",
-    "teamName": "Liverpool FC"
-  },
-  {
-    "position": 7,
-    "teamId": "EVE",
-    "teamName": "Everton FC"
-  },
-  {
-    "position": 8,
-    "teamId": "IPS",
-    "teamName": "Ipswich Town FC"
-  },
-  {
-    "position": 9,
-    "teamId": "NEW",
-    "teamName": "Newcastle United FC"
-  },
-  {
-    "position": 10,
-    "teamId": "LEE",
-    "teamName": "Leeds United FC"
-  },
-  {
-    "position": 11,
-    "teamId": "NOT",
-    "teamName": "Nottingham Forest FC"
-  },
-  {
-    "position": 12,
     "teamId": "BHA",
     "teamName": "Brighton & Hove Albion FC"
   },
   {
-    "position": 13,
+    "position": 5,
+    "teamId": "CHE",
+    "teamName": "Chelsea FC"
+  },
+  {
+    "position": 6,
+    "teamId": "BRE",
+    "teamName": "Brentford FC"
+  },
+  {
+    "position": 7,
+    "teamId": "LIV",
+    "teamName": "Liverpool FC"
+  },
+  {
+    "position": 8,
+    "teamId": "EVE",
+    "teamName": "Everton FC"
+  },
+  {
+    "position": 9,
+    "teamId": "IPS",
+    "teamName": "Ipswich Town FC"
+  },
+  {
+    "position": 10,
+    "teamId": "NEW",
+    "teamName": "Newcastle United FC"
+  },
+  {
+    "position": 11,
     "teamId": "MUN",
     "teamName": "Manchester United FC"
+  },
+  {
+    "position": 12,
+    "teamId": "LEE",
+    "teamName": "Leeds United FC"
+  },
+  {
+    "position": 13,
+    "teamId": "NOT",
+    "teamName": "Nottingham Forest FC"
   },
   {
     "position": 14,
