@@ -51,18 +51,18 @@
   },
   {
     "position": 11,
-    "teamId": "MUN",
-    "teamName": "Manchester United FC"
-  },
-  {
-    "position": 12,
     "teamId": "LEE",
     "teamName": "Leeds United FC"
   },
   {
-    "position": 13,
+    "position": 12,
     "teamId": "NOT",
     "teamName": "Nottingham Forest FC"
+  },
+  {
+    "position": 13,
+    "teamId": "MUN",
+    "teamName": "Manchester United FC"
   },
   {
     "position": 14,
