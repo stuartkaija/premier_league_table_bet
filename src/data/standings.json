@@ -11,13 +11,13 @@
   },
   {
     "position": 3,
-    "teamId": "HUL",
-    "teamName": "Hull City AFC"
-  },
-  {
-    "position": 3,
     "teamId": "LEE",
     "teamName": "Leeds United FC"
+  },
+  {
+    "position": 4,
+    "teamId": "HUL",
+    "teamName": "Hull City AFC"
   },
   {
     "position": 5,
@@ -51,13 +51,13 @@
   },
   {
     "position": 11,
-    "teamId": "NEW",
-    "teamName": "Newcastle United FC"
+    "teamId": "NOT",
+    "teamName": "Nottingham Forest FC"
   },
   {
     "position": 12,
-    "teamId": "NOT",
-    "teamName": "Nottingham Forest FC"
+    "teamId": "NEW",
+    "teamName": "Newcastle United FC"
   },
   {
     "position": 13,
