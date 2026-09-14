@@ -15,44 +15,44 @@
     "teamName": "Hull City AFC"
   },
   {
-    "position": 4,
+    "position": 3,
+    "teamId": "LEE",
+    "teamName": "Leeds United FC"
+  },
+  {
+    "position": 5,
     "teamId": "BHA",
     "teamName": "Brighton & Hove Albion FC"
   },
   {
-    "position": 5,
+    "position": 6,
     "teamId": "CHE",
     "teamName": "Chelsea FC"
   },
   {
-    "position": 6,
+    "position": 7,
     "teamId": "BRE",
     "teamName": "Brentford FC"
   },
   {
-    "position": 7,
+    "position": 8,
     "teamId": "LIV",
     "teamName": "Liverpool FC"
   },
   {
-    "position": 8,
+    "position": 9,
     "teamId": "EVE",
     "teamName": "Everton FC"
   },
   {
-    "position": 9,
+    "position": 10,
     "teamId": "IPS",
     "teamName": "Ipswich Town FC"
   },
   {
-    "position": 10,
+    "position": 11,
     "teamId": "NEW",
     "teamName": "Newcastle United FC"
-  },
-  {
-    "position": 11,
-    "teamId": "LEE",
-    "teamName": "Leeds United FC"
   },
   {
     "position": 12,
