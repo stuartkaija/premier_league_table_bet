@@ -11,28 +11,28 @@
   },
   {
     "position": 3,
+    "teamId": "BRE",
+    "teamName": "Brentford FC"
+  },
+  {
+    "position": 4,
     "teamId": "LEE",
     "teamName": "Leeds United FC"
   },
   {
-    "position": 4,
+    "position": 5,
     "teamId": "HUL",
     "teamName": "Hull City AFC"
   },
   {
-    "position": 5,
+    "position": 6,
     "teamId": "BHA",
     "teamName": "Brighton & Hove Albion FC"
   },
   {
-    "position": 6,
+    "position": 7,
     "teamId": "CHE",
     "teamName": "Chelsea FC"
-  },
-  {
-    "position": 7,
-    "teamId": "BRE",
-    "teamName": "Brentford FC"
   },
   {
     "position": 8,
