@@ -1,63 +1,63 @@
 [
   {
     "position": 1,
-    "teamId": "ARS",
-    "teamName": "Arsenal FC"
-  },
-  {
-    "position": 2,
     "teamId": "MCI",
     "teamName": "Manchester City FC"
   },
   {
+    "position": 2,
+    "teamId": "ARS",
+    "teamName": "Arsenal FC"
+  },
+  {
     "position": 3,
-    "teamId": "BRE",
-    "teamName": "Brentford FC"
-  },
-  {
-    "position": 4,
-    "teamId": "LEE",
-    "teamName": "Leeds United FC"
-  },
-  {
-    "position": 5,
-    "teamId": "HUL",
-    "teamName": "Hull City AFC"
-  },
-  {
-    "position": 6,
     "teamId": "BHA",
     "teamName": "Brighton & Hove Albion FC"
   },
   {
-    "position": 7,
-    "teamId": "CHE",
-    "teamName": "Chelsea FC"
+    "position": 4,
+    "teamId": "BRE",
+    "teamName": "Brentford FC"
   },
   {
-    "position": 8,
-    "teamId": "LIV",
-    "teamName": "Liverpool FC"
-  },
-  {
-    "position": 9,
+    "position": 5,
     "teamId": "EVE",
     "teamName": "Everton FC"
   },
   {
+    "position": 6,
+    "teamId": "LEE",
+    "teamName": "Leeds United FC"
+  },
+  {
+    "position": 7,
+    "teamId": "HUL",
+    "teamName": "Hull City AFC"
+  },
+  {
+    "position": 8,
+    "teamId": "NEW",
+    "teamName": "Newcastle United FC"
+  },
+  {
+    "position": 9,
+    "teamId": "CHE",
+    "teamName": "Chelsea FC"
+  },
+  {
     "position": 10,
+    "teamId": "LIV",
+    "teamName": "Liverpool FC"
+  },
+  {
+    "position": 11,
     "teamId": "IPS",
     "teamName": "Ipswich Town FC"
   },
   {
-    "position": 11,
+    "position": 12,
     "teamId": "NOT",
     "teamName": "Nottingham Forest FC"
-  },
-  {
-    "position": 12,
-    "teamId": "NEW",
-    "teamName": "Newcastle United FC"
   },
   {
     "position": 13,
@@ -71,28 +71,28 @@
   },
   {
     "position": 15,
+    "teamId": "AVL",
+    "teamName": "Aston Villa FC"
+  },
+  {
+    "position": 16,
     "teamId": "BOU",
     "teamName": "AFC Bournemouth"
   },
   {
-    "position": 16,
+    "position": 17,
     "teamId": "CRY",
     "teamName": "Crystal Palace FC"
   },
   {
-    "position": 17,
+    "position": 18,
     "teamId": "TOT",
     "teamName": "Tottenham Hotspur FC"
   },
   {
-    "position": 18,
+    "position": 19,
     "teamId": "FUL",
     "teamName": "Fulham FC"
-  },
-  {
-    "position": 19,
-    "teamId": "AVL",
-    "teamName": "Aston Villa FC"
   },
   {
     "position": 20,
