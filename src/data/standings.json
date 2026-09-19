@@ -86,17 +86,17 @@
   },
   {
     "position": 18,
+    "teamId": "COV",
+    "teamName": "Coventry City FC"
+  },
+  {
+    "position": 19,
     "teamId": "TOT",
     "teamName": "Tottenham Hotspur FC"
   },
   {
-    "position": 19,
+    "position": 20,
     "teamId": "FUL",
     "teamName": "Fulham FC"
-  },
-  {
-    "position": 20,
-    "teamId": "COV",
-    "teamName": "Coventry City FC"
   }
 ]
