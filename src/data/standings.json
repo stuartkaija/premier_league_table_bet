@@ -21,13 +21,13 @@
   },
   {
     "position": 5,
-    "teamId": "EVE",
-    "teamName": "Everton FC"
+    "teamId": "CHE",
+    "teamName": "Chelsea FC"
   },
   {
     "position": 6,
-    "teamId": "CHE",
-    "teamName": "Chelsea FC"
+    "teamId": "EVE",
+    "teamName": "Everton FC"
   },
   {
     "position": 7,
@@ -71,32 +71,32 @@
   },
   {
     "position": 15,
+    "teamId": "FUL",
+    "teamName": "Fulham FC"
+  },
+  {
+    "position": 16,
     "teamId": "NOT",
     "teamName": "Nottingham Forest FC"
   },
   {
-    "position": 16,
+    "position": 17,
     "teamId": "AVL",
     "teamName": "Aston Villa FC"
   },
   {
-    "position": 17,
+    "position": 18,
     "teamId": "SUN",
     "teamName": "Sunderland AFC"
   },
   {
-    "position": 18,
+    "position": 19,
     "teamId": "BOU",
     "teamName": "AFC Bournemouth"
   },
   {
-    "position": 19,
+    "position": 20,
     "teamId": "TOT",
     "teamName": "Tottenham Hotspur FC"
-  },
-  {
-    "position": 20,
-    "teamId": "FUL",
-    "teamName": "Fulham FC"
   }
 ]
