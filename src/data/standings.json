@@ -16,33 +16,33 @@
   },
   {
     "position": 4,
-    "teamId": "BRE",
-    "teamName": "Brentford FC"
-  },
-  {
-    "position": 5,
     "teamId": "CHE",
     "teamName": "Chelsea FC"
   },
   {
+    "position": 5,
+    "teamId": "LIV",
+    "teamName": "Liverpool FC"
+  },
+  {
     "position": 6,
+    "teamId": "BRE",
+    "teamName": "Brentford FC"
+  },
+  {
+    "position": 7,
     "teamId": "EVE",
     "teamName": "Everton FC"
   },
   {
-    "position": 7,
+    "position": 8,
     "teamId": "LEE",
     "teamName": "Leeds United FC"
   },
   {
-    "position": 8,
+    "position": 9,
     "teamId": "HUL",
     "teamName": "Hull City AFC"
-  },
-  {
-    "position": 9,
-    "teamId": "LIV",
-    "teamName": "Liverpool FC"
   },
   {
     "position": 10,
@@ -56,33 +56,33 @@
   },
   {
     "position": 12,
+    "teamId": "AVL",
+    "teamName": "Aston Villa FC"
+  },
+  {
+    "position": 13,
     "teamId": "CRY",
     "teamName": "Crystal Palace FC"
   },
   {
-    "position": 13,
+    "position": 14,
     "teamId": "MUN",
     "teamName": "Manchester United FC"
   },
   {
-    "position": 14,
+    "position": 15,
     "teamId": "COV",
     "teamName": "Coventry City FC"
   },
   {
-    "position": 15,
+    "position": 16,
     "teamId": "FUL",
     "teamName": "Fulham FC"
   },
   {
-    "position": 16,
+    "position": 17,
     "teamId": "NOT",
     "teamName": "Nottingham Forest FC"
-  },
-  {
-    "position": 17,
-    "teamId": "AVL",
-    "teamName": "Aston Villa FC"
   },
   {
     "position": 18,
