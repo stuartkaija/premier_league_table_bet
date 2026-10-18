@@ -6,13 +6,13 @@
   },
   {
     "position": 2,
-    "teamId": "ARS",
-    "teamName": "Arsenal FC"
+    "teamId": "BHA",
+    "teamName": "Brighton & Hove Albion FC"
   },
   {
     "position": 3,
-    "teamId": "BHA",
-    "teamName": "Brighton & Hove Albion FC"
+    "teamId": "ARS",
+    "teamName": "Arsenal FC"
   },
   {
     "position": 4,
@@ -31,13 +31,13 @@
   },
   {
     "position": 7,
-    "teamId": "EVE",
-    "teamName": "Everton FC"
+    "teamId": "LEE",
+    "teamName": "Leeds United FC"
   },
   {
     "position": 8,
-    "teamId": "LEE",
-    "teamName": "Leeds United FC"
+    "teamId": "EVE",
+    "teamName": "Everton FC"
   },
   {
     "position": 9,
@@ -61,38 +61,38 @@
   },
   {
     "position": 13,
-    "teamId": "CRY",
-    "teamName": "Crystal Palace FC"
-  },
-  {
-    "position": 14,
     "teamId": "MUN",
     "teamName": "Manchester United FC"
   },
   {
+    "position": 14,
+    "teamId": "CRY",
+    "teamName": "Crystal Palace FC"
+  },
+  {
     "position": 15,
-    "teamId": "COV",
-    "teamName": "Coventry City FC"
-  },
-  {
-    "position": 16,
-    "teamId": "FUL",
-    "teamName": "Fulham FC"
-  },
-  {
-    "position": 17,
     "teamId": "NOT",
     "teamName": "Nottingham Forest FC"
   },
   {
+    "position": 16,
+    "teamId": "BOU",
+    "teamName": "AFC Bournemouth"
+  },
+  {
+    "position": 17,
+    "teamId": "COV",
+    "teamName": "Coventry City FC"
+  },
+  {
     "position": 18,
-    "teamId": "SUN",
-    "teamName": "Sunderland AFC"
+    "teamId": "FUL",
+    "teamName": "Fulham FC"
   },
   {
     "position": 19,
-    "teamId": "BOU",
-    "teamName": "AFC Bournemouth"
+    "teamId": "SUN",
+    "teamName": "Sunderland AFC"
   },
   {
     "position": 20,
