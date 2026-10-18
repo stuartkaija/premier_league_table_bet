@@ -6,13 +6,13 @@
   },
   {
     "position": 2,
-    "teamId": "BHA",
-    "teamName": "Brighton & Hove Albion FC"
+    "teamId": "ARS",
+    "teamName": "Arsenal FC"
   },
   {
     "position": 3,
-    "teamId": "ARS",
-    "teamName": "Arsenal FC"
+    "teamId": "BHA",
+    "teamName": "Brighton & Hove Albion FC"
   },
   {
     "position": 4,
@@ -71,23 +71,23 @@
   },
   {
     "position": 15,
-    "teamId": "NOT",
-    "teamName": "Nottingham Forest FC"
-  },
-  {
-    "position": 16,
     "teamId": "BOU",
     "teamName": "AFC Bournemouth"
   },
   {
-    "position": 17,
+    "position": 16,
     "teamId": "COV",
     "teamName": "Coventry City FC"
   },
   {
-    "position": 18,
+    "position": 17,
     "teamId": "FUL",
     "teamName": "Fulham FC"
+  },
+  {
+    "position": 18,
+    "teamId": "NOT",
+    "teamName": "Nottingham Forest FC"
   },
   {
     "position": 19,
