@@ -41,13 +41,13 @@
   },
   {
     "position": 9,
-    "teamId": "HUL",
-    "teamName": "Hull City AFC"
+    "teamId": "IPS",
+    "teamName": "Ipswich Town FC"
   },
   {
     "position": 10,
-    "teamId": "IPS",
-    "teamName": "Ipswich Town FC"
+    "teamId": "HUL",
+    "teamName": "Hull City AFC"
   },
   {
     "position": 11,
@@ -76,23 +76,23 @@
   },
   {
     "position": 16,
+    "teamId": "NOT",
+    "teamName": "Nottingham Forest FC"
+  },
+  {
+    "position": 16,
     "teamId": "TOT",
     "teamName": "Tottenham Hotspur FC"
   },
   {
-    "position": 17,
+    "position": 18,
     "teamId": "COV",
     "teamName": "Coventry City FC"
   },
   {
-    "position": 18,
+    "position": 19,
     "teamId": "FUL",
     "teamName": "Fulham FC"
-  },
-  {
-    "position": 19,
-    "teamId": "NOT",
-    "teamName": "Nottingham Forest FC"
   },
   {
     "position": 20,
