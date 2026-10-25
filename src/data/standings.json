@@ -31,18 +31,18 @@
   },
   {
     "position": 7,
+    "teamId": "LEE",
+    "teamName": "Leeds United FC"
+  },
+  {
+    "position": 8,
     "teamId": "NEW",
     "teamName": "Newcastle United FC"
   },
   {
-    "position": 8,
+    "position": 9,
     "teamId": "AVL",
     "teamName": "Aston Villa FC"
-  },
-  {
-    "position": 9,
-    "teamId": "LEE",
-    "teamName": "Leeds United FC"
   },
   {
     "position": 10,
