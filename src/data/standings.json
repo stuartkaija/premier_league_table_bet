@@ -76,18 +76,18 @@
   },
   {
     "position": 16,
+    "teamId": "NOT",
+    "teamName": "Nottingham Forest FC"
+  },
+  {
+    "position": 17,
     "teamId": "COV",
     "teamName": "Coventry City FC"
   },
   {
-    "position": 17,
+    "position": 18,
     "teamId": "MUN",
     "teamName": "Manchester United FC"
-  },
-  {
-    "position": 18,
-    "teamId": "NOT",
-    "teamName": "Nottingham Forest FC"
   },
   {
     "position": 19,
