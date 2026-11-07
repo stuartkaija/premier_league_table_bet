@@ -36,33 +36,33 @@
   },
   {
     "position": 8,
-    "teamId": "BOU",
-    "teamName": "AFC Bournemouth"
-  },
-  {
-    "position": 9,
-    "teamId": "TOT",
-    "teamName": "Tottenham Hotspur FC"
-  },
-  {
-    "position": 10,
-    "teamId": "AVL",
-    "teamName": "Aston Villa FC"
-  },
-  {
-    "position": 11,
-    "teamId": "HUL",
-    "teamName": "Hull City AFC"
-  },
-  {
-    "position": 12,
     "teamId": "LEE",
     "teamName": "Leeds United FC"
   },
   {
-    "position": 13,
+    "position": 9,
+    "teamId": "BOU",
+    "teamName": "AFC Bournemouth"
+  },
+  {
+    "position": 10,
+    "teamId": "TOT",
+    "teamName": "Tottenham Hotspur FC"
+  },
+  {
+    "position": 11,
     "teamId": "NEW",
     "teamName": "Newcastle United FC"
+  },
+  {
+    "position": 12,
+    "teamId": "AVL",
+    "teamName": "Aston Villa FC"
+  },
+  {
+    "position": 13,
+    "teamId": "HUL",
+    "teamName": "Hull City AFC"
   },
   {
     "position": 14,
@@ -86,13 +86,13 @@
   },
   {
     "position": 18,
-    "teamId": "CRY",
-    "teamName": "Crystal Palace FC"
+    "teamId": "NOT",
+    "teamName": "Nottingham Forest FC"
   },
   {
     "position": 19,
-    "teamId": "NOT",
-    "teamName": "Nottingham Forest FC"
+    "teamId": "CRY",
+    "teamName": "Crystal Palace FC"
   },
   {
     "position": 20,
