@@ -21,18 +21,18 @@
   },
   {
     "position": 5,
+    "teamId": "EVE",
+    "teamName": "Everton FC"
+  },
+  {
+    "position": 6,
     "teamId": "LIV",
     "teamName": "Liverpool FC"
   },
   {
-    "position": 6,
+    "position": 7,
     "teamId": "BRE",
     "teamName": "Brentford FC"
-  },
-  {
-    "position": 7,
-    "teamId": "EVE",
-    "teamName": "Everton FC"
   },
   {
     "position": 8,
@@ -71,13 +71,13 @@
   },
   {
     "position": 15,
-    "teamId": "COV",
-    "teamName": "Coventry City FC"
+    "teamId": "FUL",
+    "teamName": "Fulham FC"
   },
   {
     "position": 16,
-    "teamId": "FUL",
-    "teamName": "Fulham FC"
+    "teamId": "COV",
+    "teamName": "Coventry City FC"
   },
   {
     "position": 17,
