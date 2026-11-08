@@ -6,58 +6,58 @@
   },
   {
     "position": 2,
-    "teamId": "MCI",
-    "teamName": "Manchester City FC"
-  },
-  {
-    "position": 3,
     "teamId": "BHA",
     "teamName": "Brighton & Hove Albion FC"
   },
   {
+    "position": 3,
+    "teamId": "MCI",
+    "teamName": "Manchester City FC"
+  },
+  {
     "position": 4,
-    "teamId": "CHE",
-    "teamName": "Chelsea FC"
-  },
-  {
-    "position": 5,
-    "teamId": "EVE",
-    "teamName": "Everton FC"
-  },
-  {
-    "position": 6,
     "teamId": "LIV",
     "teamName": "Liverpool FC"
   },
   {
+    "position": 5,
+    "teamId": "CHE",
+    "teamName": "Chelsea FC"
+  },
+  {
+    "position": 6,
+    "teamId": "EVE",
+    "teamName": "Everton FC"
+  },
+  {
     "position": 7,
-    "teamId": "BRE",
-    "teamName": "Brentford FC"
-  },
-  {
-    "position": 8,
-    "teamId": "LEE",
-    "teamName": "Leeds United FC"
-  },
-  {
-    "position": 9,
     "teamId": "BOU",
     "teamName": "AFC Bournemouth"
   },
   {
+    "position": 8,
+    "teamId": "BRE",
+    "teamName": "Brentford FC"
+  },
+  {
+    "position": 9,
+    "teamId": "LEE",
+    "teamName": "Leeds United FC"
+  },
+  {
     "position": 10,
+    "teamId": "AVL",
+    "teamName": "Aston Villa FC"
+  },
+  {
+    "position": 11,
     "teamId": "TOT",
     "teamName": "Tottenham Hotspur FC"
   },
   {
-    "position": 11,
+    "position": 12,
     "teamId": "NEW",
     "teamName": "Newcastle United FC"
-  },
-  {
-    "position": 12,
-    "teamId": "AVL",
-    "teamName": "Aston Villa FC"
   },
   {
     "position": 13,
@@ -91,12 +91,12 @@
   },
   {
     "position": 19,
-    "teamId": "CRY",
-    "teamName": "Crystal Palace FC"
+    "teamId": "SUN",
+    "teamName": "Sunderland AFC"
   },
   {
     "position": 20,
-    "teamId": "SUN",
-    "teamName": "Sunderland AFC"
+    "teamId": "CRY",
+    "teamName": "Crystal Palace FC"
   }
 ]
